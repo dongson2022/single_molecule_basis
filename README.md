@@ -23,7 +23,8 @@ pip install aicsimageio[nd2] tifffile matplotlib numpy scikit-image pillow natso
 
 ### 使用方法
 
-![alt text](images/image.png)
+<img width="2252" height="1698" alt="image" src="https://github.com/user-attachments/assets/95aa230a-f022-4b72-902f-85541a8f35b4" />
+
 
 ```bash
 python spot_extractor.py
@@ -126,7 +127,8 @@ frame,intensity
 
 ## spot_profile_check.py - Spot Intensity Trace检查工具
 
-![alt text](images/image-1.png)
+<img width="2102" height="1278" alt="image-1" src="https://github.com/user-attachments/assets/ddb4ef06-9103-4317-9689-786627df033b" />
+
 
 检查和标注提取的 spot intensity trace 数据，支持导出合格数据为 CSV。
 
