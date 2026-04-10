@@ -1,4 +1,4 @@
-# N-STORM 成像数据处理工具
+# N-STORM 单分子成像数据预处理工具
 
 本工具集用于 Nikon N-STORM 单分子荧光显微镜数据的预处理。
 
@@ -201,3 +201,11 @@ spot_id,x,y,qualified,labels,cutoff_start,cutoff_end
 ```
 
 > **注意**: 坐标信息从父目录的 `{spots_dir}.json` 文件读取（由 spot_finder 或 spot_extractor 生成）
+
+### 引用
+
+如果您在研究工作中使用了本工具，请引用以下文献：
+
+> Yao Xie et al., "Single-Molecule DNA Hybridization on Tetrahedral DNA Framework-Modified Surfaces", *Nano Letters*, 2025, DOI: [10.1021/acs.nanolett.5c01507](https://doi.org/10.1021/acs.nanolett.5c01507)
+
+您的引用对我们持续开发和维护这些工具非常重要，感谢支持！
