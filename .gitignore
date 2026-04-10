@@ -3,10 +3,10 @@
 
 # But not these files
 !.gitignore
-!user guide.md
+!README.md
 !spot_extractor.py
 !spot_profile_check.py
-
+!LICENSE
 # And not the images directory
 !images/
 !images/**
