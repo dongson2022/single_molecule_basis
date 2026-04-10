@@ -80,7 +80,7 @@ sample.nd2
 | Max Sigma | 5.0 | 最大光斑大小 |
 | Num Sigma | 3 | sigma 采样数 |
 | Threshold | 0.03 | 检测阈值 |
-| Box Size | 7 | 截取方框边长 (像素) |
+| Box Size | 7 | 截取方框边长 (像素)，建议内接于虚线圆 |
 | Camera Offset | 100 | 相机基底偏移值 |
 
 ### 输出格式
