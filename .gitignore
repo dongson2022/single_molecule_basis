@@ -4,6 +4,7 @@
 # But not these files
 !.gitignore
 !README.md
+!README_CN.md
 !spot_extractor.py
 !spot_profile_check.py
 !LICENSE
